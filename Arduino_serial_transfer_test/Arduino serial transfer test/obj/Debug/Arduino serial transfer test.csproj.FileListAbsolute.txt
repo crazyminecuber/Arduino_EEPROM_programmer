@@ -1,0 +1,10 @@
+E:\Dokument\Programering\C#\Arduino serial transfer test\Arduino serial transfer test\bin\Debug\Arduino serial transfer test.exe.config
+E:\Dokument\Programering\C#\Arduino serial transfer test\Arduino serial transfer test\bin\Debug\Arduino serial transfer test.exe
+E:\Dokument\Programering\C#\Arduino serial transfer test\Arduino serial transfer test\bin\Debug\Arduino serial transfer test.pdb
+E:\Dokument\Programering\C#\Arduino serial transfer test\Arduino serial transfer test\obj\Debug\Arduino serial transfer test.csprojAssemblyReference.cache
+E:\Dokument\Programering\C#\Arduino serial transfer test\Arduino serial transfer test\obj\Debug\Arduino_serial_transfer_test.Form1.resources
+E:\Dokument\Programering\C#\Arduino serial transfer test\Arduino serial transfer test\obj\Debug\Arduino_serial_transfer_test.Properties.Resources.resources
+E:\Dokument\Programering\C#\Arduino serial transfer test\Arduino serial transfer test\obj\Debug\Arduino serial transfer test.csproj.GenerateResource.cache
+E:\Dokument\Programering\C#\Arduino serial transfer test\Arduino serial transfer test\obj\Debug\Arduino serial transfer test.csproj.CoreCompileInputs.cache
+E:\Dokument\Programering\C#\Arduino serial transfer test\Arduino serial transfer test\obj\Debug\Arduino serial transfer test.exe
+E:\Dokument\Programering\C#\Arduino serial transfer test\Arduino serial transfer test\obj\Debug\Arduino serial transfer test.pdb

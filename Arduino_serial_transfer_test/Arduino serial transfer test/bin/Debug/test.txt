@@ -1,0 +1,21 @@
+
+0
+Enter data,addresser\t
+Dator: 3
+
+0
+hej
+
+0
+Enter data,addresser\t
+Dator: 3
+
+0
+hej
+
+0
+Enter data,addresser\t
+Dator: 3
+
+0
+hej
